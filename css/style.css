@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(245, 245, 245);
+    scroll-behavior: smooth;
+}
+
+.btn:hover{
+    background-color: rgb(15, 167, 7);
+}
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+p {
+    font-size: 35px;
+}
+h3{
+    font-family: "Times New Roman";
+    font-size: 35px;
+}
+button{
+width: 250px;
+height: 80px;
+background-color: blue;
+color: white;
+transition: all .5s;
+}
